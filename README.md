@@ -1,2 +1,5 @@
-# projek_uas_bpwl
-Projek UAS BPWL
+PROJEK UAS BPWL
+KELOMPOK 8
+KOMAR
+PARID
+WANDACH
